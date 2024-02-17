@@ -6,11 +6,11 @@ This repository is a collection of examples using the turtle module.
 
 ### Cloning the Repository
 
-    git clone https://github.com/Seri1436/turtle_project.git
+    git clone https://github.com/Seri1436/basic_turtle.git
 
 ### Setting up a Virtual Environment
 
-    cd ./turtle_project
+    cd ./basic_turtle
 
     pyenv versions
 
